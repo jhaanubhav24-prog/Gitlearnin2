@@ -2,3 +2,5 @@ This is first line
 Second line of first.txt
 
 Third line of first.txt
+
+This 4th line in first.txt
